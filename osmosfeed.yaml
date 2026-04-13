@@ -3,9 +3,44 @@
 # https://github.com/osmoscraft/osmosfeed/blob/master/docs/osmosfeed-yaml-reference.md
 #########################
 
-# cacheUrl: https://GITHUB_USERNAME.github.io/REPO_NAME/cache.json
+cacheUrl: https://BasicSix.github.io/osmosfeed-template/cache.json
+
+siteConfig:
+  title: "AI导演的情报大屏"
+  description: "聚合 AI 视频、科技前沿与创意灵感"
+cacheConfig:
+  expireInDays: 7
 sources:
-  - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
-  - href: https://css-tricks.com/feed/
-  - href: https://www.smashingmagazine.com/feed/
-  - href: https://www.freecodecamp.org/news/rss/
+  # --- AI 核心动态 ---
+  - href: https://rsshub.app/twitter/user/sama
+    title: "Sam Altman"
+  - href: https://rsshub.app/twitter/user/OpenAI
+    title: "OpenAI Official"
+  - href: https://rsshub.app/twitter/user/AnthropicAI
+    title: "Anthropic AI"
+  - href: https://rsshub.app/twitter/user/elonmusk
+    title: "Elon Musk"
+
+  # --- 视频与创意流 (B站/YouTube) ---
+  - href: https://rsshub.app/bilibili/user/video/1358758877
+    title: "程序员哈利"
+  - href: https://rsshub.app/bilibili/user/video/3031494
+    title: "刘悦的技术博客"
+  - href: https://rsshub.app/youtube/channel/UCcefcZRL2oaA_uBNeo5UOWg
+    title: "Y Combinator"
+  - href: https://rsshub.app/bilibili/user/video/1954415159
+    title: "TED官方"
+
+  # --- 科技深度阅读 ---
+  - href: http://feeds.feedburner.com/ruanyifeng
+    title: "阮一峰的网络日志"
+  - href: https://www.theverge.com/rss/index.xml
+    title: "The Verge"
+  - href: https://github.blog/feed/
+    title: "GitHub Blog"
+  
+  # --- 微信/社区搬运 ---
+  - href: https://wechat2rss.bestblogs.dev/feed/1c3e3571b1627d23ee9c64521a0b0a41d3fe2987.xml
+    title: "歸藏的AI工具箱"
+  - href: https://wechat2rss.bestblogs.dev/feed/64b57d666259aee6bd097e76164e4a8371f0ad04.xml
+    title: "夕小瑶科技说"
