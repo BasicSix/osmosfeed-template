@@ -42,16 +42,6 @@ sources:
     title: "[开发] GitHub 今日趋势"
   - href: https://wechat2rss.bestblogs.dev/feed/d993a885260f96057b9a4c96212cb2c95bb5054b.xml
     title: "[AI] 魔搭ModelScope社区"
-
-  # === [观察] 行业研报与硬核评论 ===
-  - href: https://wechat2rss.bestblogs.dev/feed/6aac3cc6d4c6df6fb3f77dea4ea4ba4a2053d6e7.xml
-    title: "[观察] Web3天空之城"
-  - href: https://wechat2rss.bestblogs.dev/feed/7200d3a5e976d231deb1e40ad33745c0e649b029.xml
-    title: "[观察] 海外独角兽"
-  - href: https://wechat2rss.bestblogs.dev/feed/9c65b8470acb8a5400199616536995d5ba90f52e.xml
-    title: "[观察] 谷歌开发者"
-  - href: https://wechat2rss.bestblogs.dev/feed/c125f09ef36fd6b6cb092c409e69a5bcc867d378.xml
-    title: "[观察] 开源服务指南"
   - href: https://wechat2rss.xlab.app/feed/808d3625c2b1915142f09e2d4bb2acd636aa956d.xml
     title: "[工具] 阿虚同学"
 
@@ -68,8 +58,6 @@ sources:
     title: "[播客] 半拿铁"
   - href: https://feeds.acast.com/public/shows/67587e77c705e441797aff96
     title: "[播客] TED Talks Daily"
-  - href: https://feeds.simplecast.com/JGE3yC0V
-    title: "[播客] a16z Show"
 
   # === [个人] 随笔与记录 ===
   - href: https://haikuoshijie.cn/rss.xml
