@@ -3,10 +3,11 @@
 # https://github.com/osmoscraft/osmosfeed/blob/master/docs/osmosfeed-yaml-reference.md
 #########################
 
-cacheUrl: https://rss.duoweiti.eu.org/cache.json
+# cacheUrl: https://rss.duoweiti.eu.org/cache.json
+# cacheUrl: https://BasicSix.github.io/osmosfeed-template/cache.json
 
 siteConfig:
-  title: "AI导演的情报矩阵"
+  title: "RSS-情报矩阵"
   description: "24/7 自动巡检：AI 动态、行业资讯与创意灵感"
 cacheConfig:
   expireInDays: 7
