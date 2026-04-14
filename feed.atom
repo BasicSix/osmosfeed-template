@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-14T07:49:00.895Z</id>
+    <id>urn:2026-04-14T10:16:34.499Z</id>
     <title>osmos::feed</title>
-    <updated>2026-04-14T07:49:00.895Z</updated>
+    <updated>2026-04-14T10:16:34.499Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[太离谱了！一张图就能解锁上帝视角，360°无死角看美女……]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzkxNTUwODgzNA==&amp;mid=2247539508&amp;idx=1&amp;sn=502a48b4c04170047cfc1293111d9724</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzkxNTUwODgzNA==&amp;mid=2247539508&amp;idx=1&amp;sn=502a48b4c04170047cfc1293111d9724"/>
+        <updated>2026-04-14T03:01:00.000Z</updated>
+        <summary type="html"><![CDATA[真的太懂设计师了！]]></summary>
+        <author>
+            <name>阿虚同学</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2026年4月推荐]]></title>
         <id>/archives/2026nian-4yue-tui-jian</id>
