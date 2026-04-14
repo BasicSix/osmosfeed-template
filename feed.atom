@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-14T18:04:13.200Z</id>
+    <id>urn:2026-04-14T19:18:11.199Z</id>
     <title>osmos::feed</title>
-    <updated>2026-04-14T18:04:13.200Z</updated>
+    <updated>2026-04-14T19:18:11.199Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What I got wrong about changing the world | Malala Yousafzai]]></title>
+        <id>69dc661af736e119c3a0659d</id>
+        <link href="http://go.ted.com/malalayousafzai26"/>
+        <updated>2026-04-14T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Malala Yousafzai has spent her life advocating for girls' education — surviving an assassination attempt at 15, meeting with world leaders and then watching hard-won progress collapse when Afghanistan fell to the Taliban in 2021. That moment of despair forced her to completely rethink what it means to create change, and what she discovered replaced her shattered optimism with something more powerful and more honest. Hear how her theory of social change has evolved — and how to keep fighting for the future you want, even when hope feels lost.
+Learn more about our flagship conference happening this April at attend.ted.com/podcast
+
+ Hosted on Acast. See acast.com/privacy for more information.]]></summary>
+        <author>
+            <name>TED Talks Daily</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[太离谱了！一张图就能解锁上帝视角，360°无死角看美女……]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzkxNTUwODgzNA==&amp;mid=2247539508&amp;idx=1&amp;sn=502a48b4c04170047cfc1293111d9724</id>
