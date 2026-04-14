@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-14T13:44:16.825Z</id>
+    <id>urn:2026-04-14T16:08:39.601Z</id>
     <title>osmos::feed</title>
-    <updated>2026-04-14T13:44:16.825Z</updated>
+    <updated>2026-04-14T16:08:39.601Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -2298,16 +2298,6 @@ Learn more about our flagship conference happening this April at attend.ted.com
  Hosted on Acast. See acast.com/privacy for more information.]]></summary>
         <author>
             <name>TED Talks Daily</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用 Zopia ＋OpenClaw 做短剧赚AI漫剧第一桶金]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzkxNTUwODgzNA==&amp;mid=2247538765&amp;idx=1&amp;sn=94c1476d938af523da8859c7c487d40a</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzkxNTUwODgzNA==&amp;mid=2247538765&amp;idx=1&amp;sn=94c1476d938af523da8859c7c487d40a"/>
-        <updated>2026-03-16T03:35:00.000Z</updated>
-        <summary type="html"><![CDATA[降维打击！24小时全自动生成 AI 短剧]]></summary>
-        <author>
-            <name>阿虚同学</name>
         </author>
     </entry>
 </feed>
