@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-15T02:38:20.110Z</id>
+    <id>urn:2026-04-15T05:25:45.495Z</id>
     <title>osmos::feed</title>
-    <updated>2026-04-15T02:38:20.110Z</updated>
+    <updated>2026-04-15T05:25:45.495Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -2308,19 +2308,6 @@ Learn more about our flagship conference happening this April at attend.ted.com
 01:04:28 品牌传承与创新：老字号与新品牌的共生之道]]></summary>
         <author>
             <name>半拿铁 | 商业沉浮录</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to make transportation quieter, cleaner and cheaper | Doreen Orishaba]]></title>
-        <id>69b8199c19edd9d9c9fd91d8</id>
-        <link href="http://go.ted.com/doreenorishaba"/>
-        <updated>2026-03-16T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[When Doreen Orishaba helped build Africa’s first electric car in 2011, skeptics dismissed it as a “toy for the Western world.” Now she’s running dozens of electric buses across Kenya and Rwanda, moving thousands of passengers to work every day on zero-exhaust vehicles powered by near-silent engines. She breaks down what it actually takes to scale clean transport — and why skipping the gas station pit stop is closer than you may think.
-Learn more about our flagship conference happening this April at attend.ted.com/podcast
-
- Hosted on Acast. See acast.com/privacy for more information.]]></summary>
-        <author>
-            <name>TED Talks Daily</name>
         </author>
     </entry>
 </feed>
