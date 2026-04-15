@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-14T21:53:42.379Z</id>
+    <id>urn:2026-04-15T02:38:20.110Z</id>
     <title>osmos::feed</title>
-    <updated>2026-04-14T21:53:42.379Z</updated>
+    <updated>2026-04-15T02:38:20.110Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[TQQQ 三倍槓桿放大了什麼？進場日期決定結論的遊戲]]></title>
+        <id>https://ducorn.com/tqqq-leverage</id>
+        <link href="https://ducorn.com/tqqq-leverage"/>
+        <updated>2026-04-15T01:53:09.000Z</updated>
+        <summary type="html"><![CDATA[股板說 TQQQ 定期定額七年勝率 100%。但那個七年的起點是 2012，換成 1999 起點做模擬，TQQQ 年化 5.62% 輸 QQQ 的 9.37%，最大回撤 99.91%。同一個工具差 13 年結論相反。這是起點的遊戲，進場日期你選不了。]]></summary>
+        <author>
+            <name>讀角獸</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026年4月推荐]]></title>
+        <id>/archives/2026nian-4yue-tui-jian</id>
+        <link href="https://haikuoshijie.cn/archives/2026nian-4yue-tui-jian"/>
+        <updated>2026-04-15T01:19:00.000Z</updated>
+        <summary type="html"><![CDATA[小棉袄自营👉：大流量手机卡 4月15日 随身FM 一个免费干净无广的在线广播电台APP 读通鉴 在线阅读资治通鉴，作者说明 4月14日 4K原盘下载 Wallpaper Gallery 有很多高清壁纸，]]></summary>
+        <author>
+            <name>小棉袄</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What I got wrong about changing the world | Malala Yousafzai]]></title>
         <id>69dc661af736e119c3a0659d</id>
@@ -26,16 +46,6 @@ Learn more about our flagship conference happening this April at attend.ted.com
         <summary type="html"><![CDATA[真的太懂设计师了！]]></summary>
         <author>
             <name>阿虚同学</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026年4月推荐]]></title>
-        <id>/archives/2026nian-4yue-tui-jian</id>
-        <link href="https://haikuoshijie.cn/archives/2026nian-4yue-tui-jian"/>
-        <updated>2026-04-14T01:19:00.000Z</updated>
-        <summary type="html"><![CDATA[小棉袄自营👉：大流量手机卡 4月14日 4K原盘下载 Wallpaper Gallery 有很多高清壁纸，开源地址 4月13日 纯净派 一个精选纯净软件库 YTD.APP 支持下载youtube等网站的音视频 4月10日]]></summary>
-        <author>
-            <name>小棉袄</name>
         </author>
     </entry>
     <entry>
